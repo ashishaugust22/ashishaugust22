@@ -1,5 +1,5 @@
 - 🔭 Web Development
 - 🌱 Data Structures & Algorithms
 - 🌱 JavaScript Enthusiast
-- [Portfolio](https://ashish-sharma91.github.io/javascript-ninja/)
+- [Portfolio](https://www.secretfrontend.com/)
 - [Linkedin](https://www.linkedin.com/in/ashishsharma22/)
